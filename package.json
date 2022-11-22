@@ -1,0 +1,21 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon --ext js -L  main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nfteyez/sol-rayz": "^0.10.2",
+    "@solana/web3.js": "^1.50.1",
+    "bs58": "^5.0.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "mongodb": "^4.8.0",
+    "nodemon": "^2.0.19"
+  }
+}

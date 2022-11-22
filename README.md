@@ -1,0 +1,1 @@
+api that returns homepage and comments for mintlol
